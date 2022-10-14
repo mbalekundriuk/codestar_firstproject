@@ -6,7 +6,7 @@ AWS Lambda and Amazon API Gateway.
 
 What's Here - I am here
 
-Test - CodePipeline
+Test - Azure CI
 -----------
 
 This sample includes:
